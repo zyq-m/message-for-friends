@@ -59,4 +59,78 @@ export const data = [
     message:
       "The most important thing is life is quality and not quantity. In life, we strive to have reliable, good, and understanding friends. That’s why I have you as my friend.",
   },
+  {
+    id: 13,
+    message:
+      "You are more fun than anyone or anything I know, including bubble wrap.",
+  },
+  {
+    id: 14,
+    message: "You are the most perfect you there is.",
+  },
+  {
+    id: 15,
+    message: "You are enough.",
+  },
+  {
+    id: 16,
+    message: "You look great today.",
+  },
+  {
+    id: 17,
+    message: "You have the best smile.",
+  },
+  {
+    id: 18,
+    message: "Your outlook on life is amazing.",
+  },
+  {
+    id: 19,
+    message: "You just light up the room.",
+  },
+  {
+    id: 20,
+    message: "You make a bigger impact than you realize.",
+  },
+  {
+    id: 21,
+    message: "You have the best laugh.",
+  },
+  {
+    id: 22,
+    message: "I appreciate our friendship.",
+  },
+  {
+    id: 23,
+    message: "Your inside is even more beautiful than your outside.",
+  },
+  {
+    id: 24,
+    message: "You just glow.",
+  },
+  {
+    id: 25,
+    message:
+      "Our family/school/community/church is better because you are part of it.",
+  },
+  {
+    id: 26,
+    message: "You bring out the best in the rest of us.",
+  },
+  {
+    id: 27,
+    message: "You inspire me.",
+  },
+  {
+    id: 28,
+    message: "Nothing can stop you.",
+  },
+  {
+    id: 29,
+    message: "You just made my day.",
+  },
+  {
+    id: 30,
+    message: "I am a better person because of you.",
+  },
 ];
