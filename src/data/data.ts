@@ -109,11 +109,6 @@ export const data = [
     message: "You just glow.",
   },
   {
-    id: 25,
-    message:
-      "Our family/school/community/church is better because you are part of it.",
-  },
-  {
     id: 26,
     message: "You bring out the best in the rest of us.",
   },
