@@ -32,7 +32,7 @@ function App() {
               onClick={handleMessage}
               className="p-2 bg-pink-500 text-white font-semibold w-3/4 mx-auto uppercase rounded-full active:bg-pink-600 active:scale-95"
             >
-              Next
+              Tell Me More
             </button>
           </div>
         </article>
