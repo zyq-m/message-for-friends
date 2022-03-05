@@ -30,7 +30,7 @@ function App() {
             <p className="text-gray-500">{message || firstMessage()}</p>
             <button
               onClick={handleMessage}
-              className="p-2 bg-pink-500 text-white font-semibold mx-auto rounded-full active:bg-pink-600 active:scale-95"
+              className="p-2 bg-pink-500 w-full text-white font-semibold mx-auto rounded-full active:bg-pink-600 active:scale-95"
             >
               Tell Me More
             </button>
