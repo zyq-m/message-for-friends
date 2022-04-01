@@ -16,10 +16,9 @@ DearFriend uses a number of open source projects to work properly:
 
 DearFriend requires [Node.js](https://nodejs.org/) v10+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Clone this repo then install the dependencies and devDependencies and start the server.
 
 ```sh
-cd message-for-friends
 npm install
 npm run dev
 ```
